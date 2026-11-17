@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis â€“ Excel Project
+# E-Commerce Sales Analysis - Excel
 
 ## Project Overview
 
